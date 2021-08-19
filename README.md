@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=alibrahimzada)
+![](https://visitor-badge.laobi.icu/badge?page_id=alirezasamar)
 
 <!--
 **alirezasamar/alirezasamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
