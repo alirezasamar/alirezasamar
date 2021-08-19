@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Profile at a glance: 
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alibrahimzada&count_private=true&show_icons=true" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alibrahimzada&layout=compact&hide=CSS,html" />
+</a>
