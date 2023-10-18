@@ -1,5 +1,5 @@
 
-📕 **Latest Blog Posts on [The Learning Loop](https://alirezasamar.com)**
+📕 **Posts on [my blog](https://alirezasamar.com)**
 <!-- BLOG-POST-LIST:START -->
 - [Embracing Distributed Federated Learning for Scalable Business Solutions](https://alirezasamar.com/posts/embracing-distributed-federated-learning-for-scalable-business-solutions/)
 - [Fine-Tuning a Pre-Trained ResNet-18 Model for Image Classification with PyTorch](https://alirezasamar.com/posts/fine-tuning-pre-trained-resnet-18-model-image-classification-pytorch/)
